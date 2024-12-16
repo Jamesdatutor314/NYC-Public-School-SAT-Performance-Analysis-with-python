@@ -16,6 +16,8 @@ This project analyzes SAT performance across NYC public schools using Python. By
 - Stuyvesant High School: 790
 - Bronx High School of Science: 785
 ## Visualization:
+![Screenshot Description](table1.png)
+![Screenshot Description](graph1.png)
 
 2. **What are the top 10 schools based on combined SAT scores?**
 Combined SAT scores calculated as the sum of math, reading, and writing averages.
@@ -23,22 +25,30 @@ Combined SAT scores calculated as the sum of math, reading, and writing averages
 - Stuyvesant High School: 2400
 - Bronx High School of Science: 2395
 ## Visualization:
+![Screenshot Description](table2.png)
+![Screenshot Description](graph2.png)
 
 3. **Which borough has the largest SAT score variability?**
 Manhattan has the highest standard deviation in combined SAT scores.
 ## Visualization:
+![Screenshot Description](graph3.png)
 
 4. **What is the average math score per borough?**
 Staten Island leads with the highest average math score.
 ## Visualization:
+![Screenshot Description](table3.png)
+![Screenshot Description](graph4.png)
+
 
 5. **Which schools exceed the average combined SAT score?**
 Highlighting schools performing above the average combined SAT score of 1800.
 
 6. **How correlated are SAT sections?**
-Math vs. Writing: 0.85
-Reading vs. Math: 0.83
+Math vs. Writing: 0.93
+Reading vs. Math: 0.93
 ## Visualization:
+![Screenshot Description](corr.png)
+
 
 # Tools
 - Python: Main programming language.
